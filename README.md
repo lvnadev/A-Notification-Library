@@ -9,4 +9,8 @@ A short and simple notification library for the game Gorilla Tag (although can b
 
 3. Your done!
 
+# Documentation
+
+ill make this later, just read source cause it has tooltips
+
 All credits to lars2005 for the idea of making something like this.
