@@ -8,7 +8,7 @@ using UnityEngine;
 using UnityEngine.TextCore.Text;
 using System.Collections;
 
-namespace Gorillatagmodrealscaryhack.Internal
+namespace apoca.Notifications
 {
     public class Notifications : MonoBehaviour
     {
